@@ -5,3 +5,6 @@
 I am a Web developer with experience in NextJS, React, TS/JS, Python, SQL/NoSQL Databases and Express. I love learning new technologies, whether a new framework or a language. My curiosity is what drives me to build new projects all the time. All the projects listed here were built by me from scratch. My other tech interests include Deep Learning and Game Dev. 
 
 You can check out my [Portfolio](https://portfolio-y4l1.vercel.app/).
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,next,html,css,express,node,SQL,mongodb,postgres,mysql)](https://skillicons.dev)
+
