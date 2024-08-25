@@ -6,5 +6,5 @@ I am a Web developer with experience in NextJS, React, TS/JS, Python, SQL/NoSQL 
 
 You can check out my [Portfolio](https://portfolio-y4l1.vercel.app/).
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,next,html,css,express,node,SQL,mongodb,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,next,html,css,express,nodejs,sql,mongodb,postgres,mysql$perline=4)](https://skillicons.dev)
 
