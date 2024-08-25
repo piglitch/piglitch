@@ -6,8 +6,8 @@ I am a Web developer with experience in NextJS, React, TS/JS, Python, SQL/NoSQL 
 
 You can check out my [Portfolio](https://portfolio-y4l1.vercel.app/).
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/simpleicons.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/linkedin.svg" />
+
+<img height="32" width="32" src="[https://unpkg.com/simple-icons@v13/icons/linkedin.svg](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)" />
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,vue,prisma,git,github,gitlab,bash,next,html,css,express,nodejs,mongodb,postgres,mysql&perline=6)](https://skillicons.dev)
