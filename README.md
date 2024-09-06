@@ -12,5 +12,3 @@ I am a Web developer with experience in NextJS, React, TS/JS, Python, SQL/NoSQL 
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,vue,prisma,git,github,gitlab,bash,next,html,css,express,nodejs,mongodb,postgres,mysql&perline=6)](https://skillicons.dev)
-
-![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=piglitch&show_icons=true&theme=radical)
