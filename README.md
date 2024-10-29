@@ -2,7 +2,7 @@
 
 **`Web Developer & Tech Enthusiast`**
 
-I am a Web developer with experience in NextJS, React, TS/JS, Python, SQL/NoSQL Databases and Express. I love learning new technologies, whether a new framework or a language. My curiosity is what drives me to build new projects all the time. All the projects listed here were built by me from scratch. My other tech interests include Deep Learning and Game Dev. 
+I am a Web developer with experience in NextJS, React, TS/JS, Python, SQL/NoSQL Databases, and Express. I love learning new technologies, whether a new framework or a language. My curiosity drives me to build new projects all the time. All the projects listed here were built by me from scratch. My other tech interests include Deep Learning and Game Development. 
 
 ## Connect with me
 
@@ -11,4 +11,4 @@ I am a Web developer with experience in NextJS, React, TS/JS, Python, SQL/NoSQL 
 [![Bulb](https://img.shields.io/badge/portfolio-grey.svg?style=for-the-badge&logo=vercel)](https://portfolio-y4l1.vercel.app/)
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,vue,prisma,git,github,gitlab,bash,next,html,css,express,nodejs,mongodb,postgres,mysql&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,vue,prisma,git,github,gitlab,bash,next,html,css,express,nodejs,mongodb,postgres,mysql,aws,redux&perline=6)](https://skillicons.dev)
