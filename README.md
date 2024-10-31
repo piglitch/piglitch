@@ -11,4 +11,4 @@ I am a Web developer with experience in NextJS, React, TS/JS, Python, SQL/NoSQL 
 [![Bulb](https://img.shields.io/badge/portfolio-grey.svg?style=for-the-badge&logo=vercel)](https://portfolio-y4l1.vercel.app/)
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,vue,prisma,git,github,gitlab,bash,next,html,css,express,nodejs,mongodb,postgres,mysql,aws,redux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,vue,prisma,git,github,gitlab,bash,next,html,css,express,nodejs,mongodb,postgres,mysql,aws,redux,redis&perline=6)](https://skillicons.dev)
