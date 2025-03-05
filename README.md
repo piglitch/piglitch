@@ -1,6 +1,6 @@
 ## Hi, I am Avi, and I think Software is cool.
 
-## I built a CDN service that you can use for free [Picker](https://www.pickercdn.com/)]
+## I built a CDN service that you can use for free [Picker](https://www.pickercdn.com/)
 **`Web Developer & Tech Enthusiast`**
 
 I am a Web developer with experience in NextJS, React, TS/JS, Python, SQL/NoSQL Databases, and Express. I love learning new technologies, whether a new framework or a language. My curiosity drives me to build new projects all the time. My other tech interests include Deep Learning and Game Development. 
